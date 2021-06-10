@@ -113,7 +113,7 @@ function GenerateLink() {
               <tbody>
                 {data.map((d, index) => {
                   const offlineInvitation = isInvitation ? `&type=invitation&code=${d.code}` : '';
-                  const mapURL = `https://madyasta.com?to=${encodeURIComponent(d.name)}${offlineInvitation}`;
+                  const mapURL = `https://60c2014a9db65e41187b9e9d--vibrant-fermi-7c7459.netlify.app?to=${encodeURIComponent(d.name)}${offlineInvitation}`;
                   return (
                     <tr>
                       <td>{index + 1}</td>
