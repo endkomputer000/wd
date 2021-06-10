@@ -37,7 +37,7 @@ function WeddingSection({ isInvitation }) {
                   title="Misa Pemberkatan Perkawinan"
                   time="10.00 WIB "
                   date="Minggu, 25 Juli 2021"
-                  description="Gereja Pugeran <br/>Jalan Suryaden No.63, Suryodiningratan, Kec. Mantrijeron, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55142"
+                  description="Gereja Pugeran <br/>Jalan Suryaden No.63 Yogyakarta"
                 />
                 <WeddingInfoBox
                   title="Syukuran Pernikahan"
