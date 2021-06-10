@@ -10,7 +10,7 @@ function WeddingSection({ isInvitation }) {
     return (
       <Fragment>
         <div className="col-md-8 col-md-offset-4">
-          <WeddingInfoBox title="Resepsi" time="13.00 WIB (Live di Instagram)" date="Minggu, 25 Juli 2021" />
+          <WeddingInfoBox title="Akad Nikah" time="08.00 WIB (Live di Instagram)" date="Sabtu, 03 Oktober 2020" />
         </div>
         <ButtonLive />
       </Fragment>
@@ -25,8 +25,8 @@ function WeddingSection({ isInvitation }) {
           <div className="row">
             <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
               <span className="bismillah">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</span>
-              <h2 className="main-font main-font__wedding">Syukuran Pernikahan</h2>
-              <span className="sub-title sub-title__wedding">Akan diselenggarakan pada:</span>
+              <h2 className="main-font main-font__wedding">Akad Nikah dan Syukuran Pernikahan</h2>
+              <span className="sub-title sub-title__wedding">Insha Allah akan diselenggarakan pada:</span>
             </div>
           </div>
           <div className="row">
@@ -34,16 +34,16 @@ function WeddingSection({ isInvitation }) {
             {isInvitation && (
               <div className="col-md-10 col-md-offset-1">
                 <WeddingInfoBox
-                  title="Pemberkatan Perkawinan"
+                  title="Akad Nikah"
                   time="Akan dilaksanakan pagi hari "
-                  date="Minggu, 25 Juli 2021"
-                  description="Gereja Pugeran <br/>Yogyakarta"
+                  date="Sabtu, 03 Oktober 2020"
+                  description="Orange Ballroom <br/>HARRIS Hotel Sentraland, Semarang"
                 />
                 <WeddingInfoBox
                   title="Syukuran Pernikahan"
                   time="Sesuai jadwal undangan di e-ticket "
-                  date="Minggu, 25 Juli 2021"
-                  description="Ballroom <br/>Burza Hotel, Yogyakarta"
+                  date="Sabtu, 03 Oktober 2020"
+                  description="Orange Ballroom <br/>HARRIS Hotel Sentraland, Semarang"
                 />
               </div>
             )}

@@ -34,7 +34,7 @@ function ETicket({ location }) {
       }
 
       alert(`Maaf, Kode data ${guestCode} tidak ditemukan. Mohon di cek lagi..`);
-      window.location.assign('https://60c2014a9db65e41187b9e9d--vibrant-fermi-7c7459.netlify.app');
+      window.location.assign('https://thekusuma.com');
     },
     [data, nameEticket, value],
   );
