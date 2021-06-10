@@ -21,8 +21,8 @@ function LocationSection() {
                   <strong>Burza Hotel Yogyakarta</strong>
                 </a>{' '}
                 <br />
-                Jl. Ki Mangunsarkoro No.36, Karangkidul, Kec. Semarang Tengah, <br />
-                Kota Semarang, Jawa Tengah 50136
+                Jl. Jogokaryan No.61-63, Mantrijeron, Kec. Mantrijeron, Kota Yogyakarta, <br />
+                Daerah Istimewa Yogyakarta 55143
               </p>
             </div>
           </div>
