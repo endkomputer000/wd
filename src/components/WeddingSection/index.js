@@ -41,7 +41,7 @@ function WeddingSection({ isInvitation }) {
                 />
                 <WeddingInfoBox
                   title="Syukuran Pernikahan"
-                  time="Sesuai jadwal undangan di e-ticket "
+                  time="13.00 - 14.00 WIB "
                   date="Minggu, 25 Juli 2021"
                   description="Ballroom <br/>Burza Hotel, Yogyakarta"
                 />
