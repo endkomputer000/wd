@@ -14,21 +14,21 @@ function MainLayout({ children }) {
   return (
     <Fragment>
       <Helmet>
-        <title>Mersa ❤️ Dion Wedding</title>
+        <title>Dinda ❤️ Indra Wedding</title>
 
         {/* Favicon */}
         <link rel="icon" type="image/png" href={Favicon} />
 
         {/* font and SEO tags */}
-        <meta property="og:title" content="The Wedding of Mersa & Dion" />
+        <meta property="og:title" content="The Wedding of Dinda & Indra" />
         <meta property="og:image" content={IMAGE_URL} />
-        <meta property="og:url" content="https://vibrant-fermi-7c7459.netlify.app/" />
-        <meta property="og:site_name" content="The Wedding of Mersa & Dion" />
+        <meta property="og:url" content="https://thekusuma.com" />
+        <meta property="og:site_name" content="The Wedding of Dinda & Indra" />
         <meta property="og:description" content={META_DESCRIPTION} />
-        <meta name="twitter:title" content="The Wedding of Mersa & Dion" />
+        <meta name="twitter:title" content="The Wedding of Dinda & Indra" />
         <meta name="twitter:description" content={META_DESCRIPTION} />
         <meta name="twitter:image" content={IMAGE_URL} />
-        <meta name="twitter:url" content="https://vibrant-fermi-7c7459.netlify.app/" />
+        <meta name="twitter:url" content="https://thekusuma.com" />
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:creator" content="@idindrakusuma" />
 
