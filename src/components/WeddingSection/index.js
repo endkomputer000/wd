@@ -34,10 +34,10 @@ function WeddingSection({ isInvitation }) {
             {isInvitation && (
               <div className="col-md-10 col-md-offset-1">
                 <WeddingInfoBox
-                  title="Akad Nikah"
+                  title="Pemberkatan Perkawinan"
                   time="Akan dilaksanakan pagi hari "
                   date="Minggu, 25 Juli 2021"
-                  description="Orange Ballroom <br/>HARRIS Hotel Sentraland, Semarang"
+                  description="Gereja Pugeran <br/>Yogyakarta"
                 />
                 <WeddingInfoBox
                   title="Syukuran Pernikahan"
