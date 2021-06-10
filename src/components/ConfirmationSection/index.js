@@ -25,6 +25,9 @@ function ConfirmationSection({ isInvitation, guestName, codeLink }) {
             <Link to={`e-ticket?${codeLink}`}>
               <button className="btn btn-default btn-block">Lihat e-Ticket</button>
             </Link>
+            <Link to={`e-ticket?${codeLink}`}>
+              <button className="btn btn-default btn-block">Lihat e-Ticket</button>
+            </Link>
           </div>
         </div>
       </div>
