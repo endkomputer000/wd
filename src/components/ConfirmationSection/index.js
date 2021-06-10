@@ -22,10 +22,7 @@ function ConfirmationSection({ isInvitation, guestName, codeLink }) {
         </div>
         <div className="row" css={styFlex}>
           <div className="col-md-3">
-            <Link to={`e-ticket?${codeLink}`}>
-              <button className="btn btn-default btn-block">Lihat e-Ticket</button>
-            </Link>
-            <Link to={`e-ticket?${codeLink}`}>
+          <Link to={`e-ticket?${codeLink}`}>
               <button className="btn btn-default btn-block">Lihat e-Ticket</button>
             </Link>
           </div>
