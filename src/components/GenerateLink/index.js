@@ -13,7 +13,7 @@ function GenerateLink() {
 
   const { data, loading } = useGuestData();
 
-  const URL = `https://madyasta.com?to=${encodeURIComponent(name)}`;
+  const URL = `https://60c2014a9db65e41187b9e9d--vibrant-fermi-7c7459.netlify.app/?to=${encodeURIComponent(name)}`;
 
   const handleChange = (e) => {
     setType(parseInt(e.target.value, 10));
