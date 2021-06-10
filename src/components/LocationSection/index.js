@@ -21,7 +21,7 @@ function LocationSection() {
                   <strong>Burza Hotel Yogyakarta</strong>
                 </a>{' '}
                 <br />
-                Jl. Jogokaryan No.61-63, Mantrijeron, Kec. Mantrijeron, <br />
+                Jl. Jogokaryan No.61-63, Kec. Mantrijeron, <br />
                 Yogyakarta, Daerah Istimewa Yogyakarta 55143
               </p>
             </div>
