@@ -1,8 +1,8 @@
 /**
  * Link
  */
-export const GOOGLE_CALENDAR_LINK = `https://calendar.google.com/calendar/event?action=TEMPLATE&dates=20201003T040000Z%2F20201003T060000Z&text=Dinda+%26+Indra+Wedding&details=Dinda+%26+Indra+Wedding`;
-export const GOOGLE_MAPS_LINK = ``;
+export const GOOGLE_CALENDAR_LINK = ``;
+export const GOOGLE_MAPS_LINK = `https://goo.gl/maps/Jp7ksCaaAP9DuToa6`;
 
 /**
  * Wedding time
