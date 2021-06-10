@@ -34,7 +34,7 @@ function WeddingSection({ isInvitation }) {
             {isInvitation && (
               <div className="col-md-10 col-md-offset-1">
                 <WeddingInfoBox
-                  title="Misa Pemberkatan Perkawinan"
+                  title="Misa Perkawinan"
                   time="10.00 WIB "
                   date="Minggu, 25 Juli 2021"
                   description="Gereja Pugeran <br/>Jalan Suryaden No.63 Yogyakarta"
