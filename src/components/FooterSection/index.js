@@ -31,7 +31,7 @@ function FooterSection({ isInvitation }) {
           <div className="row copyright">
             <div className="col-md-12 text-center">
               <p>
-                <small className="block">&copy; 2020 Dinda & Indra Wedding. All Rights Reserved.</small>
+                <small className="block">&copy; 2021 Mersa & Dion Wedding. All Rights Reserved.</small>
                 <small className="block">
                   Covid-19 Icon by{' '}
                   <a href="https://www.flaticon.com/packs/covid-protection-measures-5" target="_blank" rel="noreferrer">
@@ -40,8 +40,8 @@ function FooterSection({ isInvitation }) {
                 </small>
                 <small className="block">
                   Song by{' '}
-                  <a href="https://www.youtube.com/watch?v=fb167KAxvrg" target="_blank" rel="noreferrer">
-                    Anandito Anisa - Pernikahan Impian
+                  <a href="https://youtu.be/vvke2F8NTb0" target="_blank" rel="noreferrer">
+                  Beautiful In White (Saxophone Cover by Dori Wirawan)
                   </a>
                 </small>
                 <small className="block">
