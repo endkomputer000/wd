@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react';
 import { bool } from 'prop-types';
 
-import Bride from '@assets/images/p-dinda-2.jpg';
+import Bride from '@assets/images/p-dinda-2.png';
 import Groom from '@assets/images/p-indra.jpg';
 
 import { styWrapper } from './styles';
