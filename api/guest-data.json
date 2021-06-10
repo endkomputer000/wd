@@ -1,0 +1,24 @@
+[
+  {
+    "code": "DXI-0001",
+    "name": "Suharyo",
+    "desc": "Jalan Singa, Semarang",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  },
+  {
+    "code": "DXI-0002",
+    "name": "Heru Setyabudi",
+    "desc": "Jalan Singa, Semarang",
+    "shift": 1,
+    "isAttended": "",
+    "updatedBy": "",
+    "isExchanged": "",
+    "exchangedAt": "",
+    "exchangedBy": ""
+  }
+]
