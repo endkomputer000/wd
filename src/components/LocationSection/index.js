@@ -18,7 +18,7 @@ function LocationSection() {
                   rel="noreferrer"
                   style={{ color: '#828282' }}
                 >
-                  <strong>HARRIS Hotel Sentraland Semarang</strong>
+                  <strong>HARRIS Hotel Sentraland Semarangg</strong>
                 </a>{' '}
                 <br />
                 Jl. Ki Mangunsarkoro No.36, Karangkidul, Kec. Semarang Tengah, <br />
