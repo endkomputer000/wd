@@ -25,7 +25,7 @@ function WeddingSection({ isInvitation }) {
           <div className="row">
             <div className="col-md-8 col-md-offset-2 text-center fh5co-heading">
               <span className="bismillah">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</span>
-              <h2 className="main-font main-font__wedding">Misa Pemberkatan Perkawinan dan Syukuran Pernikahan</h2>
+              <h2 className="main-font main-font__wedding">Misa Perkawinan dan Syukuran Pernikahan</h2>
               <span className="sub-title sub-title__wedding">Akan diselenggarakan pada:</span>
             </div>
           </div>
