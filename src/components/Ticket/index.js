@@ -21,7 +21,7 @@ function TicketData({ guest, configData }) {
           <div class="tdata">{guest.desc}</div>
           <div class="tinfo">Syukuran Pernikahan / Shift</div>
           <div class="tdata">
-            {`${configData.shiftType?.[guest.shift]} / ${guest.shift}` || '11.00 WIB - 13.00 WIB'}
+            {`${configData.shiftType?.[guest.shift]} / ${guest.shift}` || '13.00 WIB - 13.00 WIB'}
           </div>
           {/* attendance */}
           {guest.isAttended ? (

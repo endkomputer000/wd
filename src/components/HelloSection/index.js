@@ -30,7 +30,7 @@ function HelloSection({ isInvitation }) {
                 <img src={Bride} alt="groom" className="img-responsive" loading="lazy" />
               </div>
               <div className="desc-groom">
-                <h3 className="main-font">Catharina Mersa Lutviaana, S.I.Kom.</h3>
+                <h3 className="main-font">Catharina Mersa Lutviana, S.I.Kom.</h3>
                 <p className="parent-name parent-name__top">
                   Putri Bapak Leo Agung Kusjanadi <br />& Ibu Maria Godeliva Sri Rahayu
                 </p>
